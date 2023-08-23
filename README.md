@@ -1,7 +1,6 @@
-# Event-Reservation-System-Simulation
+# Designing Transaction Management with process scheduling for distributed system across multiple server
 
-Used the pthread API to create a multi-threaded simulation of an event reservation system.
-With a small number of concurrent inquiries, the system maintains event reservations.
+
 
 ## To compile and run the code, you can follow these steps:
 - Open a terminal and navigate to the directory where the file is located.
